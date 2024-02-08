@@ -1,5 +1,6 @@
 # Car-Selling-Price-Prediction-using-Machine-Learning
 Second hand car selling price is predicted from various features like kilometer driven, Fuel type, transmission, owner, seller type
+kaggle dataset link - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
 This Machine Learning Model is created using polynomial regression algorithm.
 THE STEP BY STEP PROCESS FOLLOWED TO TRAIN THE MODEL ARE :
